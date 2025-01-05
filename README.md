@@ -17,5 +17,6 @@ with a space.
 ![image](https://github.com/user-attachments/assets/1f76c874-e54b-449f-bab2-a8955e661b14)
 
 # Important Note
-This program is ***very*** inefficient. I haven't tested past 200 words.
+This program is mainly testing an idea I had It is 
+***very*** inefficient. I haven't tested past 200 words.
 Anything below 100 can work fine.

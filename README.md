@@ -1,4 +1,4 @@
-# Song Table Creator
+# Song Tabler
 Counts the amount of unique and total words in a single song
 graphs how often words are repeated throughout that song.
 
